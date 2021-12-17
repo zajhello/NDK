@@ -1,0 +1,25 @@
+# ninja log v5
+0	541	661341948	CMakeFiles/native-lib.dir/Test.cpp.o	f4957c93ae61d8cd
+15	570	661341948	CMakeFiles/native-lib.dir/native-lib.cpp.o	dfa97e9b92372c0f
+570	653	661341949	C:/Users/zajhe/Desktop/workspace/NDK/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	2505b1dccfe35dd0
+2	547	661342958	build.ninja	fcb273544ab509b0
+0	6	0	clean	c75a0b5da676d2a2
+0	183	661343110	build.ninja	fcb273544ab509b0
+0	5	0	clean	c75a0b5da676d2a2
+1	432	661343209	build.ninja	fcb273544ab509b0
+0	6	0	clean	c75a0b5da676d2a2
+1	173	661343715	build.ninja	fcb273544ab509b0
+2	524	661343716	CMakeFiles/native-lib.dir/Test.cpp.o	f4957c93ae61d8cd
+17	577	661343716	CMakeFiles/native-lib.dir/native-lib.cpp.o	dfa97e9b92372c0f
+577	662	661343716	C:/Users/zajhe/Desktop/workspace/NDK/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	2505b1dccfe35dd0
+1	188	661344156	build.ninja	fcb273544ab509b0
+1	7	0	clean	c75a0b5da676d2a2
+49	562	661344181	CMakeFiles/native-lib.dir/Test.cpp.o	f4957c93ae61d8cd
+3	578	661344181	CMakeFiles/native-lib.dir/native-lib.cpp.o	dfa97e9b92372c0f
+578	653	661344181	C:/Users/zajhe/Desktop/workspace/NDK/app/libs/arm64-v8a}/libnative-lib.so	5919a7e95673a80e
+0	7	0	clean	c75a0b5da676d2a2
+0	6	0	clean	c75a0b5da676d2a2
+0	6	0	clean	c75a0b5da676d2a2
+2	194	661425652	build.ninja	fcb273544ab509b0
+0	5	0	clean	c75a0b5da676d2a2
+1	6	0	clean	c75a0b5da676d2a2

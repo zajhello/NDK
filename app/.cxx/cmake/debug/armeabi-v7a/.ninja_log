@@ -1,0 +1,22 @@
+# ninja log v5
+1	604	661341948	CMakeFiles/native-lib.dir/Test.cpp.o	bd8e78124c5fce0e
+22	655	661341948	CMakeFiles/native-lib.dir/native-lib.cpp.o	9a4f08f0b3bade35
+655	767	661341948	C:/Users/zajhe/Desktop/workspace/NDK/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	4b6bce22d9b90e91
+0	7	0	clean	c75a0b5da676d2a2
+1	8	0	clean	c75a0b5da676d2a2
+0	6	0	clean	c75a0b5da676d2a2
+2	604	661343715	CMakeFiles/native-lib.dir/Test.cpp.o	bd8e78124c5fce0e
+45	629	661343715	CMakeFiles/native-lib.dir/native-lib.cpp.o	9a4f08f0b3bade35
+629	767	661343715	C:/Users/zajhe/Desktop/workspace/NDK/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	4b6bce22d9b90e91
+1	9	0	clean	c75a0b5da676d2a2
+3	515	661344180	CMakeFiles/native-lib.dir/Test.cpp.o	bd8e78124c5fce0e
+20	564	661344181	CMakeFiles/native-lib.dir/native-lib.cpp.o	9a4f08f0b3bade35
+564	692	661344181	C:/Users/zajhe/Desktop/workspace/NDK/app/libs/armeabi-v7a}/libnative-lib.so	a0205262eaa7628a
+0	7	0	clean	c75a0b5da676d2a2
+0	6	0	clean	c75a0b5da676d2a2
+0	7	0	clean	c75a0b5da676d2a2
+3	576	661344723	CMakeFiles/native-lib.dir/Test.cpp.o	bd8e78124c5fce0e
+50	636	661344723	CMakeFiles/native-lib.dir/native-lib.cpp.o	9a4f08f0b3bade35
+636	759	661344723	C:/Users/zajhe/Desktop/workspace/NDK/app/libs/armeabi-v7a}/libnative-lib.so	a0205262eaa7628a
+0	8	0	clean	c75a0b5da676d2a2
+0	7	0	clean	c75a0b5da676d2a2

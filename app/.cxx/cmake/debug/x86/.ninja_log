@@ -1,0 +1,6 @@
+# ninja log v5
+309	399	661445967	CMakeFiles/native-lib.dir/com_example_ndk_DynamicRegiste.cpp.o	ac9c557d19772628
+300	487	661445967	CMakeFiles/native-lib.dir/com_example_ndk_JniClient.cpp.o	f75d314f1f32567e
+292	801	661445967	CMakeFiles/native-lib.dir/Test.cpp.o	822404a6536575c6
+1	839	661445967	CMakeFiles/native-lib.dir/native-lib.cpp.o	2e5ccfa582143fb
+839	913	661445967	C:/Users/zajhe/Desktop/workspace/NDK/app/libs/x86}/libnative-lib.so	46c1a0ef344fe660
