@@ -1,0 +1,9 @@
+C:/Users/zajhe/Desktop/workspace/NDK/app/.cxx/Debug/2au1g3o6/x86/CMakeFiles/native-lib.dir
+C:/Users/zajhe/Desktop/workspace/NDK/app/.cxx/Debug/2au1g3o6/x86/CMakeFiles/edit_cache.dir
+C:/Users/zajhe/Desktop/workspace/NDK/app/.cxx/Debug/2au1g3o6/x86/CMakeFiles/rebuild_cache.dir
+C:/Users/zajhe/Desktop/workspace/NDK/app/.cxx/Debug/2au1g3o6/x86/one/CMakeFiles/rebuild_cache.dir
+C:/Users/zajhe/Desktop/workspace/NDK/app/.cxx/Debug/2au1g3o6/x86/one/CMakeFiles/one-lib.dir
+C:/Users/zajhe/Desktop/workspace/NDK/app/.cxx/Debug/2au1g3o6/x86/one/CMakeFiles/edit_cache.dir
+C:/Users/zajhe/Desktop/workspace/NDK/app/.cxx/Debug/2au1g3o6/x86/two/CMakeFiles/two-lib.dir
+C:/Users/zajhe/Desktop/workspace/NDK/app/.cxx/Debug/2au1g3o6/x86/two/CMakeFiles/edit_cache.dir
+C:/Users/zajhe/Desktop/workspace/NDK/app/.cxx/Debug/2au1g3o6/x86/two/CMakeFiles/rebuild_cache.dir

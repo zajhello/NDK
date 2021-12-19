@@ -1,0 +1,9 @@
+C:/Users/zajhe/Desktop/workspace/NDK/app/.cxx/Debug/2au1g3o6/armeabi-v7a/CMakeFiles/native-lib.dir
+C:/Users/zajhe/Desktop/workspace/NDK/app/.cxx/Debug/2au1g3o6/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/zajhe/Desktop/workspace/NDK/app/.cxx/Debug/2au1g3o6/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/Users/zajhe/Desktop/workspace/NDK/app/.cxx/Debug/2au1g3o6/armeabi-v7a/one/CMakeFiles/rebuild_cache.dir
+C:/Users/zajhe/Desktop/workspace/NDK/app/.cxx/Debug/2au1g3o6/armeabi-v7a/one/CMakeFiles/one-lib.dir
+C:/Users/zajhe/Desktop/workspace/NDK/app/.cxx/Debug/2au1g3o6/armeabi-v7a/one/CMakeFiles/edit_cache.dir
+C:/Users/zajhe/Desktop/workspace/NDK/app/.cxx/Debug/2au1g3o6/armeabi-v7a/two/CMakeFiles/two-lib.dir
+C:/Users/zajhe/Desktop/workspace/NDK/app/.cxx/Debug/2au1g3o6/armeabi-v7a/two/CMakeFiles/edit_cache.dir
+C:/Users/zajhe/Desktop/workspace/NDK/app/.cxx/Debug/2au1g3o6/armeabi-v7a/two/CMakeFiles/rebuild_cache.dir

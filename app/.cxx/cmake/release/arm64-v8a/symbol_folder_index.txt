@@ -1,0 +1,1 @@
+C:\Users\zajhe\Desktop\workspace\NDK\app\build\intermediates\cmake\release\obj\arm64-v8a

@@ -1,0 +1,16 @@
+# ninja log v5
+30	148	661607508	CMakeFiles/native-lib.dir/com_example_ndk_DynamicRegiste.cpp.o	447ca8a5c6999c86
+42	246	661607508	CMakeFiles/native-lib.dir/com_example_ndk_JniClient.cpp.o	1ed217d37afbaf39
+1	556	661607508	CMakeFiles/native-lib.dir/Test.cpp.o	f4957c93ae61d8cd
+18	588	661607508	CMakeFiles/native-lib.dir/native-lib.cpp.o	dfa97e9b92372c0f
+588	679	661607508	C:/Users/zajhe/Desktop/workspace/NDK/app/libs/arm64-v8a}/libnative-lib.so	568061b22138e040
+3	79	661612630	one/CMakeFiles/one-lib.dir/one.cpp.o	9341041ef3c0b1fa
+79	163	661612630	C:/Users/zajhe/Desktop/workspace/NDK/app/src/libs/arm64-v8a}/libone-lib.so	bbe8a2f56d8fbf5a
+13	498	661612631	two/CMakeFiles/two-lib.dir/two.cpp.o	480f45bc6d381d5e
+498	576	661612631	C:/Users/zajhe/Desktop/workspace/NDK/app/src/libs/arm64-v8a}/libtwo-lib.so	c879c7c1af0fb38f
+3	392	661612868	one/CMakeFiles/one-lib.dir/one.cpp.o	9341041ef3c0b1fa
+19	410	661612868	two/CMakeFiles/two-lib.dir/two.cpp.o	480f45bc6d381d5e
+392	473	661612868	C:/Users/zajhe/Desktop/workspace/NDK/app/src/libs/arm64-v8a}/libone-lib.so	bbe8a2f56d8fbf5a
+410	489	661612868	C:/Users/zajhe/Desktop/workspace/NDK/app/src/libs/arm64-v8a}/libtwo-lib.so	c879c7c1af0fb38f
+3	89	661613206	C:/Users/zajhe/Desktop/workspace/NDK/app/libs/arm64-v8a}/libone-lib.so	a7163f4bbd4c2423
+7	121	661613206	C:/Users/zajhe/Desktop/workspace/NDK/app/libs/arm64-v8a}/libtwo-lib.so	96e693ecbdf628a7
