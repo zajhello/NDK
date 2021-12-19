@@ -1,25 +1,2 @@
 # ninja log v5
-1	533	661341949	CMakeFiles/native-lib.dir/Test.cpp.o	7ff4a15f9141fff
-17	569	661341949	CMakeFiles/native-lib.dir/native-lib.cpp.o	787ebb89c4190e96
-569	667	661341949	C:/Users/zajhe/Desktop/workspace/NDK/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	e547706e2e7851f2
-1	207	661342958	build.ninja	9c42a702b7facbd3
 0	6	0	clean	c75a0b5da676d2a2
-1	197	661343110	build.ninja	9c42a702b7facbd3
-0	5	0	clean	c75a0b5da676d2a2
-1	179	661343209	build.ninja	9c42a702b7facbd3
-0	6	0	clean	c75a0b5da676d2a2
-1	178	661343716	build.ninja	9c42a702b7facbd3
-17	563	661343716	CMakeFiles/native-lib.dir/Test.cpp.o	7ff4a15f9141fff
-2	577	661343716	CMakeFiles/native-lib.dir/native-lib.cpp.o	787ebb89c4190e96
-577	712	661343717	C:/Users/zajhe/Desktop/workspace/NDK/app/build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	e547706e2e7851f2
-1	178	661344156	build.ninja	9c42a702b7facbd3
-0	6	0	clean	c75a0b5da676d2a2
-19	532	661344182	CMakeFiles/native-lib.dir/Test.cpp.o	7ff4a15f9141fff
-3	543	661344182	CMakeFiles/native-lib.dir/native-lib.cpp.o	787ebb89c4190e96
-544	667	661344182	C:/Users/zajhe/Desktop/workspace/NDK/app/libs/x86_64}/libnative-lib.so	8e9f764f37b8a1d7
-0	7	0	clean	c75a0b5da676d2a2
-0	12	0	clean	c75a0b5da676d2a2
-0	6	0	clean	c75a0b5da676d2a2
-1	191	661425652	build.ninja	9c42a702b7facbd3
-0	5	0	clean	c75a0b5da676d2a2
-0	5	0	clean	c75a0b5da676d2a2

@@ -87,11 +87,27 @@
             android:textSize="10sp" />
 
 
+
+
         <Button
             android:id="@+id/bt13"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="JNI 调用动态注册函数 显示内部返回值"
+            android:textSize="10sp" />
+
+        <Button
+            android:id="@+id/bt14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="from one-lib"
+            android:textSize="10sp" />
+
+        <Button
+            android:id="@+id/bt15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="from two-lib"
             android:textSize="10sp" />
 
     </LinearLayout>

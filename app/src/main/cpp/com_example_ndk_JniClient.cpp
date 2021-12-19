@@ -244,7 +244,6 @@ JNIEXPORT void JNICALL Java_com_example_ndk_JniClient_callJavaStaticMethod
     jmethodID mJStaticmethodID;
 
     //1.从classpath路径下搜索ClassMethod这个类，并返回该类的Class对象
-    int i = 0;
     mJclass = env->FindClass("com/example/ndk/MyJavaClass");
     if (mJclass == NULL) {
         LOGI("callJavaStaticMethod==>>mJclass==NULL==>>%s", "");

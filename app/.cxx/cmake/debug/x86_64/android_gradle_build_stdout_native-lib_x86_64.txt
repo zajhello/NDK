@@ -1,4 +1,0 @@
-ninja: Entering directory `C:\Users\zajhe\Desktop\workspace\NDK\app\.cxx\cmake\debug\x86_64'
-[1/3] Building CXX object CMakeFiles/native-lib.dir/Test.cpp.o
-[2/3] Building CXX object CMakeFiles/native-lib.dir/native-lib.cpp.o
-[3/3] Linking CXX shared library C:\Users\zajhe\Desktop\workspace\NDK\app\libs\x86_64}\libnative-lib.so

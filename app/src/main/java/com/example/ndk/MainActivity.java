@@ -15,9 +15,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     // Used to load the 'native-lib' library on application startup.
     static {
         System.loadLibrary("native-lib");
+        System.loadLibrary("one-lib");
+        System.loadLibrary("two-lib");
     }
 
-    private Button bt4, bt5, bt6, bt7, bt8, bt9, bt10, bt11, bt12, bt13;
+    private Button bt4, bt5, bt6, bt7, bt8, bt9, bt10, bt11, bt12, bt13, bt14, bt15;
     private ActivityMainBinding binding;
 
     @Override
@@ -52,6 +54,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         bt12.setOnClickListener(this);
         bt13 = (Button) this.findViewById(R.id.bt13);
         bt13.setOnClickListener(this);
+        bt14 = (Button) this.findViewById(R.id.bt14);
+        bt14.setOnClickListener(this);
+        bt15 = (Button) this.findViewById(R.id.bt15);
+        bt15.setOnClickListener(this);
     }
 
     /**
@@ -67,6 +73,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
 
     static public native String staticFromJNI();
+
+    static public native String staticFromTwo();
+
+    static public native String staticFromOne();
 
     @Override
     public void onClick(View v) {
@@ -148,6 +158,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             JniClient.callSuperInstanceMethod();
         } else if (v == bt13) {
             Toast.makeText(MainActivity.this, "JNI  动态注册返回值 " + new DynamicRegiste().getHello() + "===" + new DynamicRegiste().meaningOfTheUniverse(), Toast.LENGTH_SHORT).show();
+        } else if (v == bt14) {
+            Toast.makeText(MainActivity.this, staticFromOne(), Toast.LENGTH_SHORT).show();
+        } else if (v == bt15) {
+            Toast.makeText(MainActivity.this, staticFromTwo(), Toast.LENGTH_SHORT).show();
+
         }
     }
 }

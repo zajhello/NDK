@@ -5,17 +5,18 @@
 
 cmake_minimum_required(VERSION 3.10.2)
 
-# .so输出路径
-set(CMAKE_LIBRARY_OUTPUT_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}/../../../libs/${CMAKE_ANDROID_ARCH_ABI}})
-# .a输出路径
-set(CMAKE_ARCHIVE_OUTPUT_DIRECTORY  ${CMAKE_CURRENT_SOURCE_DIR}/../../../libs/${CMAKE_ANDROID_ARCH_ABI}})
-
+#set(CMAKE_LIBRARY_OUTPUT_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}/../../../libs/${CMAKE_ANDROID_ARCH_ABI}})
 #set(NATIVE_LIB "tmessages.35")
 #set(LIBRARY_OUTPUT_PATH  ${CMAKE_CURRENT_SOURCE_DIR}/../../../libs/${CMAKE_ANDROID_ARCH_ABI})
 # Declares and names the project.
 
+## .so输出路径
+#set(CMAKE_LIBRARY_OUTPUT_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}/../../../libs/${CMAKE_ANDROID_ARCH_ABI}})
+## .a输出路径
+#set(CMAKE_ARCHIVE_OUTPUT_DIRECTORY  ${CMAKE_CURRENT_SOURCE_DIR}/../../../libs/${CMAKE_ANDROID_ARCH_ABI}})
 
-project("ndk")
+
+#project("ndk")
 
 # Creates and names a library, sets it as either STATIC
 # or SHARED, and provides the relative paths to its source code.
@@ -23,17 +24,13 @@ project("ndk")
 # Gradle automatically packages shared libraries with your APK.
 
 add_library( # Sets the name of the library.
-        native-lib
+        two-lib
 
         # Sets the library as a shared library.
         SHARED
 
         # Provides a relative path to your source file(s).
-        native-lib.cpp
-        Test.cpp
-#        Test.h
-        com_example_ndk_JniClient.cpp
-        com_example_ndk_DynamicRegiste.cpp
+        two.cpp
         )
 
 # Searches for a specified prebuilt library and stores the path as a
@@ -54,12 +51,8 @@ find_library( # Sets the name of the path variable.
 # build script, prebuilt third-party libraries, or system libraries.
 
 target_link_libraries( # Specifies the target library.
-        native-lib
+        two-lib
 
         # Links the target library to the log library
         # included in the NDK.
         ${log-lib})
-
-# 添加子目录，会调用子目录中的CMakeLists.txt
-add_subdirectory(one)
-add_subdirectory(two)
