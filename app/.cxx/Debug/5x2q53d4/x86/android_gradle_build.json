@@ -1,0 +1,68 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "C:\\Users\\zajhe\\Desktop\\workspace\\NDK\\app\\src\\main\\jni\\CMakeLists.txt",
+    "C:\\Users\\zajhe\\Desktop\\workspace\\NDK\\app\\src\\main\\jni\\one\\CMakeLists.txt",
+    "C:\\Users\\zajhe\\Desktop\\workspace\\NDK\\app\\src\\main\\jni\\two\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\zajhe\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\zajhe\\Desktop\\workspace\\NDK\\app\\.cxx\\Debug\\5x2q53d4\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\zajhe\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\zajhe\\Desktop\\workspace\\NDK\\app\\.cxx\\Debug\\5x2q53d4\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "one-lib-Debug-x86": {
+      "buildCommandComponents": [
+        "C:\\Users\\zajhe\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\zajhe\\Desktop\\workspace\\NDK\\app\\.cxx\\Debug\\5x2q53d4\\x86",
+        "one-lib"
+      ],
+      "buildType": "debug",
+      "abi": "x86",
+      "artifactName": "one-lib",
+      "output": "C:\\Users\\zajhe\\Desktop\\workspace\\NDK\\app\\libs\\x86}\\libone-lib.so",
+      "runtimeFiles": []
+    },
+    "two-lib-Debug-x86": {
+      "buildCommandComponents": [
+        "C:\\Users\\zajhe\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\zajhe\\Desktop\\workspace\\NDK\\app\\.cxx\\Debug\\5x2q53d4\\x86",
+        "two-lib"
+      ],
+      "buildType": "debug",
+      "abi": "x86",
+      "artifactName": "two-lib",
+      "output": "C:\\Users\\zajhe\\Desktop\\workspace\\NDK\\app\\libs\\x86}\\libtwo-lib.so",
+      "runtimeFiles": []
+    },
+    "native-lib-Debug-x86": {
+      "buildCommandComponents": [
+        "C:\\Users\\zajhe\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\zajhe\\Desktop\\workspace\\NDK\\app\\.cxx\\Debug\\5x2q53d4\\x86",
+        "native-lib"
+      ],
+      "buildType": "debug",
+      "abi": "x86",
+      "artifactName": "native-lib",
+      "output": "C:\\Users\\zajhe\\Desktop\\workspace\\NDK\\app\\libs\\x86}\\libnative-lib.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
